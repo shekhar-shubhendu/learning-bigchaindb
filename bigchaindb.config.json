@@ -1,0 +1,5 @@
+{
+    "url": "https://test.bigchaindb.com/api/v1/",
+    "app_id": "// add your testnet add id here",
+    "app_key": "// add your testnet key here"
+}
