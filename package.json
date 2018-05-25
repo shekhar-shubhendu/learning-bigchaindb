@@ -2,9 +2,9 @@
   "name": "learning-bigchaindb",
   "version": "1.0.0",
   "description": "Learning BigchainDB using the testnet",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "babel-watch ./src/app.js"
   },
   "keywords": [
     "bigchaindb"
