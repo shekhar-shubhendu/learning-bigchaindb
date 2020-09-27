@@ -12,7 +12,7 @@
   "author": "Not Telling",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bigchaindb-driver": "^4.0.1",
     "express": "^4.16.3"
   },
